@@ -10,7 +10,7 @@ def argue(argument)
   argument
 end
 
-def greeting(greeting = "hello", name)
+def greeting(greeting = "Hi there, ", name)
  greeting + name
 end
 
