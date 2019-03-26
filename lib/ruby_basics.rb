@@ -21,6 +21,7 @@ end
 
 def last_evaluated_value
   adjective = "expert"
+  adjective
 end
 
 def pizza_party(meal = "cheese")
