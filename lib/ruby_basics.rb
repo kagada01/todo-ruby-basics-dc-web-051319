@@ -16,6 +16,7 @@ end
 
 def return_a_value
   variable = "Nice"
+  variable
 end
 
 def last_evaluated_value
