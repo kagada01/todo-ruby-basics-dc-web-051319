@@ -11,7 +11,7 @@ def argue(argument)
 end
 
 def greeting(x, greeting = "Hello")
-  greeting + name
+  greeting * x
 end
 
 def return_a_value
