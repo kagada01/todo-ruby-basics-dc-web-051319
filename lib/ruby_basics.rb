@@ -11,9 +11,7 @@ def argue(argument)
 end
 
 def greeting(x, greeting = "Hello")
-  x.times do
-              greeting
-  end
+  
 end
 
 def return_a_value
